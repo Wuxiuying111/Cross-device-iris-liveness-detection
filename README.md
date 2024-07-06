@@ -1,0 +1,2 @@
+# Cross-device-iris-liveness-detection
+I'm very sorry, because the laboratory equipment is temporarily unavailable, the detailed code content will be completed later. In addition, I would like to express my special thanks to Guoliang Kang and others for the code for my reference, which provided great help for my experiment.https://github.com/kgl-prml/Contrastive-Adaptation-Network-for-Unsupervised-Domain-Adaptation
